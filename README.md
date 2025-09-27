@@ -13,13 +13,13 @@
 
 ## 🚀 **About Me**
 - 🎓 **BTech CSE** | IILM University, Gurugram (2024 – Present)  
-- 🎨 **Interests**: Designing, 3D, AI/ML, Video Editing, Full-Stack Coding  
+- 🎨 **Interests**: Designing, Advanced UI/UX for Web & App, 3D, AI/ML, Video Editing, Full-Stack Coding  
 - 💡 **Projects**:  
   - **Portfolio Website** – Personal showcase of my work  
   - **FixFlic (Movie Suggestion App)** – Recommender system for movies  
   - **License Plate Recognition (LPR) System** – Automatic vehicle license plate recognition using AI/ML  
 - 🎥 **Creative Side**: Graphic Designing, Motion Graphics, Video Editing  
-- 📖 **Currently Learning** | Full-Stack Dev + Advanced Designing Tools  
+- 📖 **Currently Learning** | Full-Stack Development + **Advanced UI/UX for App & Web**  
 - 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/manjot-singh-86676b310/) | [GitHub](https://github.com/manjotGG) | [Email](mailto:manjotcharanjeet@gmail.com)  
 
 ---
