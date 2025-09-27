@@ -1,71 +1,61 @@
 <div align="center">
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&separator=%3C&lines=Hi+my+name+is+Manjot+singh+;-;%3CI+am+a+UI%2FUX+designer+" alt="Typing SVG" /></a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&separator=%3C&lines=Hi+my+name+is+Manjot+Singh+;-;%3CI+am+a+UI%2FUX+designer+" alt="Typing SVG" />
+  </a>
 </div>
+
 <p align="left">
-  <a href="https://github.com/Abhigyan-GG"><img src="https://img.shields.io/github/followers/Abhigyan-GG?label=Follow&style=social"></a>
-  <a href="https://leetcode.com/u/ABHIGYAN_31/"><img src="https://img.shields.io/badge/LeetCode-ABHIGYAN_31-orange"></a>
-  <a href="https://www.geeksforgeeks.org/user/manitj9swx/"><img src="https://img.shields.io/badge/GFG-manitj9swx-brightgreen"></a>
+  <a href="https://github.com/manjotGG"><img src="https://img.shields.io/github/followers/manjotGG?label=Follow&style=social"></a>
 </p>
 
 ---
 
 ## 🚀 **About Me**
-- 🎓 **BTech CSE** | IILM UNIVERISTY (2024 - Present)
-- ⚡ **Interests**: Quantitative Finance, High-Frequency Trading, AI/ML, Competitive Programming
-- 🏆 **Competitive Programmer** | Active on LeetCode, Codeforces, and GFG
-- 🔬 **Current Projects**:
-  - **PL Predictor**: Predicting Premier League match outcomes using ML
-  - **Vortix**: Gesture-Controlled Smart Home Automation
-  - **Facial Detection System**: Real-time face recognition with MediaPipe
-- 🎨 **Graphic Designer** | Thumbnails & Posters
-- 📖 **Currently Learning** | Java & MongoDb
-- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/abhigyan-manit-jha-2666b7324) | [GitHub](https://github.com/Abhigyan-GG) | [Email](mailto:Manitjha032@gmail.com)
+- 🎓 **BTech CSE** | IILM University, Gurugram (2024 – Present)  
+- 🎨 **Interests**: Designing, 3D, AI/ML, Video Editing, Full-Stack Coding  
+- 💡 **Projects**:  
+  - **Portfolio Website** – Personal showcase of my work  
+  - **Movie Suggestion App (FixFlic)** – Recommender system for movies  
+- 🎥 **Creative Side**: Graphic Designing, Motion Graphics, Video Editing  
+- 📖 **Currently Learning** | Full-Stack Dev + Advanced Designing Tools  
+- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/manjot-singh-86676b310/) | [GitHub](https://github.com/manjotGG) | [Email](mailto:manjotcharanjeet@gmail.com)  
 
 ---
 
 ## 📊 **GitHub Stats**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhigyan-GG&theme=dark&hide_border=true" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manjotGG&theme=dark&hide_border=true" width="50%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhigyan-GG&theme=github_dark" alt="GitHub Contribution Graph">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manjotGG&theme=github_dark" alt="GitHub Contribution Graph">
 
 ---
 
-## SKILLS:
+## 🛠️ **Skills**
 
-| Category                     | Skills and Icons                                                            |
-|------------------------------|---------------------------------------------------------------------------|
-| **Programming Languages**    | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| Category                     | Skills and Icons                                                                 |
+|------------------------------|----------------------------------------------------------------------------------|
+| **Programming Languages**    | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Frontend Development**     | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Backend Development**      | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
-| **AI/ML Technologies**       | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) |
+| **AI/ML Technologies**       | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
 | **Databases**                | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Data Visualization**       | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
-| **Backend as a Service**     | ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  |
-| **Software**                 | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| **Creative Tools**           | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 
 ---
 
 ## 📂 **Projects**
 
 | Project Name | Description | Tech Stack |
-|-------------|------------|------------|
-| **PL Predictor** | Predicts EPL match outcomes with ML & real-time data integration | Python, Flask, scikit-learn, TensorFlow, PostgreSQL, Electron.js |
-| **RainCheck** | A weather app that provides real-time weather updates | Node.js, Express.js, OpenWeather API, HTML, CSS, JavaScript |
-
----
-
-## 🌟 **LeetCode & Competitive Profiles**
-- 🏅 **LeetCode**: [ABHIGYAN_31](https://leetcode.com/u/ABHIGYAN_31/)
-- 💡 **GeeksforGeeks**: [manitj9swx](https://www.geeksforgeeks.org/user/manitj9swx/)
-
+|--------------|-------------|------------|
+| **Portfolio Website** | Personal portfolio showcasing UI/UX, editing, and dev work | HTML, CSS, React, Tailwind, Figma |
+| **FixFlic (Movie Suggestion App)** | A recommender system for movies | Python, Flask, SQL, Pandas, scikit-learn |
+| **Creative Designs** | Posters, Thumbnails, and Motion Graphics | Photoshop, Illustrator, After Effects, Premiere Pro |
 
 ---
 
 ### 🎯 **Let's Connect**
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhigyan-manit-jha-2666b7324"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin"></a>
-  <a href="https://github.com/Abhigyan-GG"><img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github"></a>
-  <a href="mailto:Manitjha032@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/manjot-singh-86676b310/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin"></a>
+  <a href="https://github.com/manjotGG"><img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github"></a>
+  <a href="mailto:manjotcharanjeet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail"></a>
 </p>
