@@ -13,11 +13,12 @@
 
 ## 🚀 **About Me**
 - 🎓 **BTech CSE** | IILM University, Gurugram (2024 – Present)  
-- 🎨 **Interests**: Designing, Advanced UI/UX for Web & App, 3D, AI/ML, Video Editing, Full-Stack Coding  
+- 🎨 **Interests**: Designing, Advanced UI/UX for Web & App, 3D, Video Editing, Full-Stack Coding, **Web#**  
 - 💡 **Projects**:  
   - **Portfolio Website** – Personal showcase of my work  
   - **FixFlic (Movie Suggestion App)** – Recommender system for movies  
-  - **License Plate Recognition (LPR) System** – Automatic vehicle license plate recognition using AI/ML  
+  - **License Plate Recognition (LPR) System** – Automatic vehicle license plate recognition  
+  - **SolClub** – Web3-based loyalty and membership platform  
 - 🎥 **Creative Side**: Graphic Designing, Motion Graphics, Video Editing  
 - 📖 **Currently Learning** | Full-Stack Development + **Advanced UI/UX for App & Web**  
 - 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/manjot-singh-86676b310/) | [GitHub](https://github.com/manjotGG) | [Email](mailto:manjotcharanjeet@gmail.com)  
@@ -38,7 +39,6 @@
 | **Programming Languages**    | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Frontend Development**     | ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Backend Development**      | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
-| **AI/ML Technologies**       | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
 | **Databases**                | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Creative Tools**           | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 
@@ -49,8 +49,10 @@
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
 | **Portfolio Website** | Personal portfolio showcasing UI/UX, editing, and dev work | HTML, CSS, Tailwind, Figma |
-| **FixFlic (Movie Suggestion App)** | A recommender system for movies | Python, Flask, SQL, Pandas, scikit-learn |
-| **License Plate Recognition (LPR) System** | Detects and recognizes vehicle license plates in real time | Python, OpenCV, NumPy, AI/ML |
+| **FixFlic (Movie Suggestion App)** | A recommender system for movies | Python, Flask, SQL |
+| **License Plate Recognition (LPR) System** | Detects and recognizes vehicle license plates in real time | Python, OpenCV |
+| **SolClub** | Web3-based loyalty and membership platform with NFT-based access and rewards | Web3, Blockchain, Full-Stack |
+| **Weather Tell App** | A simple app that provides real-time weather updates based on user location | JavaScript, API, HTML, CSS |
 | **Creative Designs** | Posters, Thumbnails, and Motion Graphics | Photoshop, Illustrator, After Effects, Premiere Pro |
 
 ---
