@@ -28,7 +28,7 @@
 ## 📊 **GitHub Stats**
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjotGG&theme=dark&hide_border=true" width="50%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manjotGG&theme=github_dark" alt="GitHub Contribution Graph">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manjotGG&theme=apprentice" alt="GitHub Contribution Graph">
 
 ---
 
