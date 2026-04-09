@@ -53,7 +53,7 @@
 |---|---------|-------------|------------|--------|
 | 🥇 | **[SolClub](https://github.com/manjotGG/SolClub)** | On-chain loyalty platform — customers earn NFTs/tokens for purchases via Solana Pay | `Web3` `Blockchain` `Solana` `Python` `Full-Stack` | 🔒 Private |
 | 🥈 | **[Anti Ragging AI](https://github.com/manjotGG/Anti_ragging_ai)** | AI-powered platform for students to anonymously report ragging incidents; converts NL complaints into structured reports | `Vue.js` `AI/NLP` `Full-Stack` `Database` | ✅ Public |
-| 🥉 | **[VC LMS](https://github.com/manjotGG/lms-file-tracker)** | University LMS with version-controlled file uploads — stores each update as a new version instead of overwriting | `Python` `Version Control` `Full-Stack` | ✅ Public |
+| 🥉 | **[VC LMS](https://github.com/manjotGG/VC_Lms)** | University LMS with version-controlled file uploads — stores each update as a new version instead of overwriting | `Python` `Version Control` `Full-Stack` | ✅ Public |
 | 4 | **[Indian LPR System](https://github.com/manjotGG/Indian-License-Plate-Recognition-System)** | Real-time ANPR system detecting Indian vehicle license plates using YOLOv8 for high accuracy | `Python` `OpenCV` `YOLOv8` `Computer Vision` | ✅ Public |
 | 5 | **[FixFlic](https://github.com/manjotGG/FixFlic)** | Movie recommender app that suggests content based on your mood and emotions | `HTML` `CSS` `JavaScript` | ✅ Public |
 | 6 | **[Portfolio](https://github.com/manjotGG/Portfolio)** | Personal showcase of design & dev work — graphic design, UI/UX, and programming | `HTML` `CSS` `Figma` | ✅ Public |
