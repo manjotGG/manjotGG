@@ -15,8 +15,8 @@
 ## 🚀 About Me
 
 - 🎓 **BTech CSE** | IILM University, Gurugram (2024 – Present)
-- 🎨 **Interests**: Web3 & Blockchain · Advanced UI/UX for Web & App · 3D Design · Motion Editing · Computer vision
-- 🏆 **Featured Projects**: SolClub · Anti Ragging AI · VC LMS · LPR System · FixFlic
+- 🎨 **Interests**: Web3 & Blockchain · computer vision · distributed system · Advanced UI/UX for Web & App · 3D Design · Motion Editing · Computer vision
+- 🏆 **Featured Projects**: AgentLab · Hash · Ray Tracing Engine · SolClub · Anti Ragging AI · VC LMS · LPR System · FixFlic
 - 🎥 **Creative Side**: Graphic Designing · Motion Graphics · Video Editing
 - 📖 **Currently Learning**: Web3 & Blockchain fundamentals · Competitive programming
 - 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/manjot-singh-86676b310/) | [GitHub](https://github.com/manjotGG) | [Email](mailto:manjotcharanjeet@gmail.com) | [Portfolio](https://manjotdesign.myportfolio.com)
@@ -37,10 +37,10 @@
 |---|---|
 | **Programming Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Frontend Development** | ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) |
-| **Backend Development** | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) |
+| **Backend Development** | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
 | **AI / ML** | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black) |
 | **Web3 / Blockchain** | ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Creative Tools** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) |
 
 ---
@@ -51,12 +51,15 @@
 
 | # | Project | Description | Tech Stack | Status |
 |---|---------|-------------|------------|--------|
-| 🥇 | **[SolClub](https://github.com/manjotGG/SolClub)** | On-chain loyalty platform — customers earn NFTs/tokens for purchases via Solana Pay | `Web3` `Blockchain` `Solana` `Python` `Full-Stack` | 🔒 Private |
-| 🥈 | **[Anti Ragging AI](https://github.com/manjotGG/Anti_ragging_ai)** | AI-powered platform for students to anonymously report ragging incidents; converts NL complaints into structured reports | `Vue.js` `AI/NLP` `Full-Stack` `Database` | ✅ Public |
-| 🥉 | **[VC LMS](https://github.com/manjotGG/VC_Lms)** | University LMS with version-controlled file uploads — stores each update as a new version instead of overwriting | `Python` `Version Control` `Full-Stack` | ✅ Public |
-| 4 | **[Indian LPR System](https://github.com/manjotGG/Indian-License-Plate-Recognition-System)** | Real-time ANPR system detecting Indian vehicle license plates using YOLOv8 for high accuracy | `Python` `OpenCV` `YOLOv8` `Computer Vision` | ✅ Public |
-| 5 | **[FixFlic](https://github.com/manjotGG/FixFlic)** | Movie recommender app that suggests content based on your mood and emotions | `HTML` `CSS` `JavaScript` | ✅ Public |
-| 6 | **[Portfolio](https://github.com/manjotGG/Portfolio)** | Personal showcase of design & dev work — graphic design, UI/UX, and programming | `HTML` `CSS` `Figma` | ✅ Public |
+| 🥇 | **[AgentLab](https://github.com/manjotGG/AgentLab)** | Visual, no-code platform to build AI agents by connecting blocks like memory, reasoning, and tools — runs real LLM workflows via a graph engine enabling multi-agent collaboration | `AI` `LLM` `Graph Engine` `TypeScript` `Full-Stack` | ✅ Public |
+| 🥈 | **[Hash](https://github.com/manjotGG/Hash)** | Decentralized authentication system replacing traditional passwords with blockchain-based identity (DID) and cryptographic wallet signatures; passwordless auth with Diffie–Hellman encrypted sessions | `Web3` `Blockchain` `DID` `Cryptography` `JavaScript` | ✅ Public |
+| 🥉 | **[Ray Tracing Engine](https://github.com/manjotGG/Ray_tracing_engine)** | Physically-based ray tracing engine built in C++ that simulates realistic light behavior — reflections, refraction, and shading — to render photorealistic images | `C++` `Graphics` `Rendering` `Physics Simulation` | ✅ Public |
+| 4 | **[SolClub](https://github.com/manjotGG/SolClub)** | On-chain loyalty platform — customers earn NFTs/tokens for purchases via Solana Pay | `Web3` `Blockchain` `Solana` `Python` `Full-Stack` | 🔒 Private |
+| 5 | **[Anti Ragging AI](https://github.com/manjotGG/Anti_ragging_ai)** | AI-powered platform for students to anonymously report ragging incidents; converts NL complaints into structured reports | `Vue.js` `AI/NLP` `Full-Stack` `Database` | ✅ Public |
+| 6 | **[VC LMS](https://github.com/manjotGG/VC_Lms)** | University LMS with version-controlled file uploads — stores each update as a new version instead of overwriting | `Python` `Version Control` `Full-Stack` | ✅ Public |
+| 7 | **[Indian LPR System](https://github.com/manjotGG/Indian-License-Plate-Recognition-System)** | Real-time ANPR system detecting Indian vehicle license plates using YOLOv8 for high accuracy | `Python` `OpenCV` `YOLOv8` `Computer Vision` | ✅ Public |
+| 8 | **[FixFlic](https://github.com/manjotGG/FixFlic)** | Movie recommender app that suggests content based on your mood and emotions | `HTML` `CSS` `JavaScript` | ✅ Public |
+| 9 | **[Portfolio](https://github.com/manjotGG/Portfolio)** | Personal showcase of design & dev work — graphic design, UI/UX, and programming | `HTML` `CSS` `Figma` | ✅ Public |
 
 ---
 
